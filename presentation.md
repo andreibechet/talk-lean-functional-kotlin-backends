@@ -42,7 +42,7 @@ Content
 
 class: transition
 
-## Mario Fernandez
+## Dustin Heckmann
 ## Andrei Bechet
  
  **Thought**Works
